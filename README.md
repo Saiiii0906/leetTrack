@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0289-game-of-life](https://github.com/Saiiii0906/leetTrack/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/Saiiii0906/leetTrack/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/Saiiii0906/leetTrack/tree/master/0844-backspace-string-compare) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Saiiii0906/leetTrack/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Saiiii0906/leetTrack/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Saiiii0906/leetTrack/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/Saiiii0906/leetTrack/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Saiiii0906/leetTrack/tree/master/0443-string-compression) |
 | [0482-license-key-formatting](https://github.com/Saiiii0906/leetTrack/tree/master/0482-license-key-formatting) |
 | [0680-valid-palindrome-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Saiiii0906/leetTrack/tree/master/0844-backspace-string-compare) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saiiii0906/leetTrack/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/Saiiii0906/leetTrack/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Saiiii0906/leetTrack/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saiiii0906/leetTrack/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Saiiii0906/leetTrack/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
