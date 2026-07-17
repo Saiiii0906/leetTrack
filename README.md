@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Saiiii0906/leetTrack/tree/master/0204-count-primes) |
 | [0289-game-of-life](https://github.com/Saiiii0906/leetTrack/tree/master/0289-game-of-life) |
 | [0661-image-smoother](https://github.com/Saiiii0906/leetTrack/tree/master/0661-image-smoother) |
+| [0890-find-and-replace-pattern](https://github.com/Saiiii0906/leetTrack/tree/master/0890-find-and-replace-pattern) |
 | [1528-shuffle-string](https://github.com/Saiiii0906/leetTrack/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Saiiii0906/leetTrack/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saiiii0906/leetTrack/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/Saiiii0906/leetTrack/tree/master/0482-license-key-formatting) |
 | [0680-valid-palindrome-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Saiiii0906/leetTrack/tree/master/0844-backspace-string-compare) |
+| [0890-find-and-replace-pattern](https://github.com/Saiiii0906/leetTrack/tree/master/0890-find-and-replace-pattern) |
 | [0925-long-pressed-name](https://github.com/Saiiii0906/leetTrack/tree/master/0925-long-pressed-name) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saiiii0906/leetTrack/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/Saiiii0906/leetTrack/tree/master/1528-shuffle-string) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Saiiii0906/leetTrack/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Saiiii0906/leetTrack/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Saiiii0906/leetTrack/tree/master/0383-ransom-note) |
+| [0890-find-and-replace-pattern](https://github.com/Saiiii0906/leetTrack/tree/master/0890-find-and-replace-pattern) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saiiii0906/leetTrack/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saiiii0906/leetTrack/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Saiiii0906/leetTrack/tree/master/1832-check-if-the-sentence-is-pangram) |
