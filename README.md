@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Saiiii0906/leetTrack/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/Saiiii0906/leetTrack/tree/master/0415-add-strings) |
 | [1025-divisor-game](https://github.com/Saiiii0906/leetTrack/tree/master/1025-divisor-game) |
+| [2427-number-of-common-factors](https://github.com/Saiiii0906/leetTrack/tree/master/2427-number-of-common-factors) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saiiii0906/leetTrack/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |
@@ -132,8 +133,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Saiiii0906/leetTrack/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/Saiiii0906/leetTrack/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Saiiii0906/leetTrack/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/Saiiii0906/leetTrack/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
