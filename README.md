@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saiiii0906/leetTrack/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Saiiii0906/leetTrack/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Saiiii0906/leetTrack/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/Saiiii0906/leetTrack/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Saiiii0906/leetTrack/tree/master/0844-backspace-string-compare) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Saiiii0906/leetTrack/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Saiiii0906/leetTrack/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Saiiii0906/leetTrack/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Saiiii0906/leetTrack/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Saiiii0906/leetTrack/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Saiiii0906/leetTrack/tree/master/0383-ransom-note) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Saiiii0906/leetTrack/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Saiiii0906/leetTrack/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Saiiii0906/leetTrack/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/Saiiii0906/leetTrack/tree/master/0415-add-strings) |
