@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Saiiii0906/leetTrack/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Saiiii0906/leetTrack/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Saiiii0906/leetTrack/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Saiiii0906/leetTrack/tree/master/0169-majority-element) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Saiiii0906/leetTrack/tree/master/0048-rotate-image) |
 | [0289-game-of-life](https://github.com/Saiiii0906/leetTrack/tree/master/0289-game-of-life) |
 | [0661-image-smoother](https://github.com/Saiiii0906/leetTrack/tree/master/0661-image-smoother) |
 ## Simulation
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Saiiii0906/leetTrack/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Saiiii0906/leetTrack/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Saiiii0906/leetTrack/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Saiiii0906/leetTrack/tree/master/0263-ugly-number) |
