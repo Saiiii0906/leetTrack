@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Saiiii0906/leetTrack/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Saiiii0906/leetTrack/tree/master/2523-closest-prime-numbers-in-range) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Saiiii0906/leetTrack/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Saiiii0906/leetTrack/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saiiii0906/leetTrack/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Saiiii0906/leetTrack/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Saiiii0906/leetTrack/tree/master/2523-closest-prime-numbers-in-range) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Saiiii0906/leetTrack/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Saiiii0906/leetTrack/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Union-Find
 |  |
 | ------- |
