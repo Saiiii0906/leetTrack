@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Saiiii0906/leetTrack/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saiiii0906/leetTrack/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0890-find-and-replace-pattern](https://github.com/Saiiii0906/leetTrack/tree/master/0890-find-and-replace-pattern) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/Saiiii0906/leetTrack/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Saiiii0906/leetTrack/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saiiii0906/leetTrack/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Saiiii0906/leetTrack/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Saiiii0906/leetTrack/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Saiiii0906/leetTrack/tree/master/0242-valid-anagram) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Saiiii0906/leetTrack/tree/master/0070-climbing-stairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
