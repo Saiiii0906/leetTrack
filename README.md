@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Saiiii0906/leetTrack/tree/master/0540-single-element-in-a-sorted-array) |
 | [0661-image-smoother](https://github.com/Saiiii0906/leetTrack/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/Saiiii0906/leetTrack/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Saiiii0906/leetTrack/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0890-find-and-replace-pattern](https://github.com/Saiiii0906/leetTrack/tree/master/0890-find-and-replace-pattern) |
 | [1528-shuffle-string](https://github.com/Saiiii0906/leetTrack/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Saiiii0906/leetTrack/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Saiiii0906/leetTrack/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saiiii0906/leetTrack/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Saiiii0906/leetTrack/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Saiiii0906/leetTrack/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Memoization
 |  |
 | ------- |
