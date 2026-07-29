@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saiiii0906/leetTrack/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Saiiii0906/leetTrack/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Saiiii0906/leetTrack/tree/master/1768-merge-strings-alternately) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Saiiii0906/leetTrack/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Saiiii0906/leetTrack/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saiiii0906/leetTrack/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Saiiii0906/leetTrack/tree/master/0415-add-strings) |
 | [1025-divisor-game](https://github.com/Saiiii0906/leetTrack/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/Saiiii0906/leetTrack/tree/master/1688-count-of-matches-in-tournament) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Saiiii0906/leetTrack/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2235-add-two-integers](https://github.com/Saiiii0906/leetTrack/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/Saiiii0906/leetTrack/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Saiiii0906/leetTrack/tree/master/2523-closest-prime-numbers-in-range) |
