@@ -245,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Saiiii0906/leetTrack/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Saiiii0906/leetTrack/tree/master/0374-guess-number-higher-or-lower) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Saiiii0906/leetTrack/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
