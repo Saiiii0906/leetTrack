@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Saiiii0906/leetTrack/tree/master/0443-string-compression) |
 | [0482-license-key-formatting](https://github.com/Saiiii0906/leetTrack/tree/master/0482-license-key-formatting) |
 | [0680-valid-palindrome-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/Saiiii0906/leetTrack/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Saiiii0906/leetTrack/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/Saiiii0906/leetTrack/tree/master/0890-find-and-replace-pattern) |
 | [0925-long-pressed-name](https://github.com/Saiiii0906/leetTrack/tree/master/0925-long-pressed-name) |
@@ -299,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/1021-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Saiiii0906/leetTrack/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
