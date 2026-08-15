@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saiiii0906/leetTrack/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Saiiii0906/leetTrack/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Saiiii0906/leetTrack/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Saiiii0906/leetTrack/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Saiiii0906/leetTrack/tree/master/0151-reverse-words-in-a-string) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Saiiii0906/leetTrack/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Saiiii0906/leetTrack/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Saiiii0906/leetTrack/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Saiiii0906/leetTrack/tree/master/0169-majority-element) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Saiiii0906/leetTrack/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Saiiii0906/leetTrack/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Saiiii0906/leetTrack/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Saiiii0906/leetTrack/tree/master/0070-climbing-stairs) |
