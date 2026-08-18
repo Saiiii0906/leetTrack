@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Saiiii0906/leetTrack/tree/master/2965-find-missing-and-repeated-values) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Saiiii0906/leetTrack/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Saiiii0906/leetTrack/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Saiiii0906/leetTrack/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Saiiii0906/leetTrack/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Saiiii0906/leetTrack/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saiiii0906/leetTrack/tree/master/2965-find-missing-and-repeated-values) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Saiiii0906/leetTrack/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
 |  |
 | ------- |
