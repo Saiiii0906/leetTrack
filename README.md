@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Saiiii0906/leetTrack/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Saiiii0906/leetTrack/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/Saiiii0906/leetTrack/tree/master/0890-find-and-replace-pattern) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Saiiii0906/leetTrack/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saiiii0906/leetTrack/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saiiii0906/leetTrack/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/Saiiii0906/leetTrack/tree/master/1052-grumpy-bookstore-owner) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Saiiii0906/leetTrack/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Saiiii0906/leetTrack/tree/master/0645-set-mismatch) |
 | [0890-find-and-replace-pattern](https://github.com/Saiiii0906/leetTrack/tree/master/0890-find-and-replace-pattern) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Saiiii0906/leetTrack/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saiiii0906/leetTrack/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saiiii0906/leetTrack/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Saiiii0906/leetTrack/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0410-split-array-largest-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Saiiii0906/leetTrack/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saiiii0906/leetTrack/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Interactive
 |  |
