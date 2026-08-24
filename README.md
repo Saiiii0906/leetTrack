@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Saiiii0906/leetTrack/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Saiiii0906/leetTrack/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Saiiii0906/leetTrack/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/Saiiii0906/leetTrack/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Saiiii0906/leetTrack/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/Saiiii0906/leetTrack/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Saiiii0906/leetTrack/tree/master/1025-divisor-game) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Saiiii0906/leetTrack/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Saiiii0906/leetTrack/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Saiiii0906/leetTrack/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Saiiii0906/leetTrack/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saiiii0906/leetTrack/tree/master/0540-single-element-in-a-sorted-array) |
