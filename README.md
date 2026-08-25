@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Saiiii0906/leetTrack/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saiiii0906/leetTrack/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Saiiii0906/leetTrack/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2090-k-radius-subarray-averages](https://github.com/Saiiii0906/leetTrack/tree/master/2090-k-radius-subarray-averages) |
 | [2951-find-the-peaks](https://github.com/Saiiii0906/leetTrack/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saiiii0906/leetTrack/tree/master/2965-find-missing-and-repeated-values) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Saiiii0906/leetTrack/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saiiii0906/leetTrack/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saiiii0906/leetTrack/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Saiiii0906/leetTrack/tree/master/1652-defuse-the-bomb) |
+| [2090-k-radius-subarray-averages](https://github.com/Saiiii0906/leetTrack/tree/master/2090-k-radius-subarray-averages) |
 ## Counting
 |  |
 | ------- |
