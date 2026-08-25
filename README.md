@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saiiii0906/leetTrack/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Saiiii0906/leetTrack/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2090-k-radius-subarray-averages](https://github.com/Saiiii0906/leetTrack/tree/master/2090-k-radius-subarray-averages) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Saiiii0906/leetTrack/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2951-find-the-peaks](https://github.com/Saiiii0906/leetTrack/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saiiii0906/leetTrack/tree/master/2965-find-missing-and-repeated-values) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Saiiii0906/leetTrack/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saiiii0906/leetTrack/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Saiiii0906/leetTrack/tree/master/1652-defuse-the-bomb) |
 | [2090-k-radius-subarray-averages](https://github.com/Saiiii0906/leetTrack/tree/master/2090-k-radius-subarray-averages) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Saiiii0906/leetTrack/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Counting
 |  |
 | ------- |
