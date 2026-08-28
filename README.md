@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Saiiii0906/leetTrack/tree/master/2235-add-two-integers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Saiiii0906/leetTrack/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2427-number-of-common-factors](https://github.com/Saiiii0906/leetTrack/tree/master/2427-number-of-common-factors) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Saiiii0906/leetTrack/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Saiiii0906/leetTrack/tree/master/2523-closest-prime-numbers-in-range) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saiiii0906/leetTrack/tree/master/2965-find-missing-and-repeated-values) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Saiiii0906/leetTrack/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
@@ -386,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Saiiii0906/leetTrack/tree/master/0237-delete-node-in-a-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Saiiii0906/leetTrack/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
