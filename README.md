@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Saiiii0906/leetTrack/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Saiiii0906/leetTrack/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/Saiiii0906/leetTrack/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Saiiii0906/leetTrack/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Saiiii0906/leetTrack/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/Saiiii0906/leetTrack/tree/master/0925-long-pressed-name) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Saiiii0906/leetTrack/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Saiiii0906/leetTrack/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/Saiiii0906/leetTrack/tree/master/0482-license-key-formatting) |
+| [0567-permutation-in-string](https://github.com/Saiiii0906/leetTrack/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Saiiii0906/leetTrack/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Saiiii0906/leetTrack/tree/master/0844-backspace-string-compare) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Saiiii0906/leetTrack/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saiiii0906/leetTrack/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Saiiii0906/leetTrack/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Saiiii0906/leetTrack/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Saiiii0906/leetTrack/tree/master/0645-set-mismatch) |
 | [0890-find-and-replace-pattern](https://github.com/Saiiii0906/leetTrack/tree/master/0890-find-and-replace-pattern) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saiiii0906/leetTrack/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saiiii0906/leetTrack/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saiiii0906/leetTrack/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Saiiii0906/leetTrack/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Saiiii0906/leetTrack/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/Saiiii0906/leetTrack/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Saiiii0906/leetTrack/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
