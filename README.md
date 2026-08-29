@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Saiiii0906/leetTrack/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Saiiii0906/leetTrack/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Saiiii0906/leetTrack/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Saiiii0906/leetTrack/tree/master/0289-game-of-life) |
 | [0410-split-array-largest-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0410-split-array-largest-sum) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saiiii0906/leetTrack/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Saiiii0906/leetTrack/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Saiiii0906/leetTrack/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saiiii0906/leetTrack/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Saiiii0906/leetTrack/tree/master/0567-permutation-in-string) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Saiiii0906/leetTrack/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Saiiii0906/leetTrack/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Prefix Sum
@@ -399,4 +402,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Saiiii0906/leetTrack/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Saiiii0906/leetTrack/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Saiiii0906/leetTrack/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Saiiii0906/leetTrack/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
