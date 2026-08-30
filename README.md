@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Saiiii0906/leetTrack/tree/master/0890-find-and-replace-pattern) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saiiii0906/leetTrack/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saiiii0906/leetTrack/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Saiiii0906/leetTrack/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saiiii0906/leetTrack/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/Saiiii0906/leetTrack/tree/master/1052-grumpy-bookstore-owner) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Saiiii0906/leetTrack/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saiiii0906/leetTrack/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Saiiii0906/leetTrack/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Saiiii0906/leetTrack/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Saiiii0906/leetTrack/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Saiiii0906/leetTrack/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Saiiii0906/leetTrack/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saiiii0906/leetTrack/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Saiiii0906/leetTrack/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saiiii0906/leetTrack/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Saiiii0906/leetTrack/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Saiiii0906/leetTrack/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saiiii0906/leetTrack/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Saiiii0906/leetTrack/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Saiiii0906/leetTrack/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0410-split-array-largest-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saiiii0906/leetTrack/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Saiiii0906/leetTrack/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saiiii0906/leetTrack/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Interactive
 |  |
