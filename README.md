@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Saiiii0906/leetTrack/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Saiiii0906/leetTrack/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0415-add-strings](https://github.com/Saiiii0906/leetTrack/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/Saiiii0906/leetTrack/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Saiiii0906/leetTrack/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saiiii0906/leetTrack/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Saiiii0906/leetTrack/tree/master/0443-string-compression) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Saiiii0906/leetTrack/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Saiiii0906/leetTrack/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Saiiii0906/leetTrack/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Saiiii0906/leetTrack/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saiiii0906/leetTrack/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Saiiii0906/leetTrack/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Saiiii0906/leetTrack/tree/master/0567-permutation-in-string) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Saiiii0906/leetTrack/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Saiiii0906/leetTrack/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Saiiii0906/leetTrack/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Saiiii0906/leetTrack/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saiiii0906/leetTrack/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Saiiii0906/leetTrack/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Saiiii0906/leetTrack/tree/master/0643-maximum-average-subarray-i) |
