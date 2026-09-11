@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Saiiii0906/leetTrack/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/Saiiii0906/leetTrack/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/Saiiii0906/leetTrack/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saiiii0906/leetTrack/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saiiii0906/leetTrack/tree/master/0977-squares-of-a-sorted-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Saiiii0906/leetTrack/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Saiiii0906/leetTrack/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Saiiii0906/leetTrack/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saiiii0906/leetTrack/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Saiiii0906/leetTrack/tree/master/1552-magnetic-force-between-two-balls) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Saiiii0906/leetTrack/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Saiiii0906/leetTrack/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0912-sort-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Saiiii0906/leetTrack/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Saiiii0906/leetTrack/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Prefix Sum
 |  |
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Saiiii0906/leetTrack/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -446,4 +451,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Saiiii0906/leetTrack/tree/master/0050-powx-n) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
