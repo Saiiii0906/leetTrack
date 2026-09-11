@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Saiiii0906/leetTrack/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Saiiii0906/leetTrack/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/Saiiii0906/leetTrack/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Saiiii0906/leetTrack/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/Saiiii0906/leetTrack/tree/master/2235-add-two-integers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Saiiii0906/leetTrack/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2427-number-of-common-factors](https://github.com/Saiiii0906/leetTrack/tree/master/2427-number-of-common-factors) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Saiiii0906/leetTrack/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/Saiiii0906/leetTrack/tree/master/1922-count-good-numbers) |
 ## Merge Sort
 |  |
 | ------- |
