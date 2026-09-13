@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Saiiii0906/leetTrack/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/Saiiii0906/leetTrack/tree/master/0890-find-and-replace-pattern) |
 | [0925-long-pressed-name](https://github.com/Saiiii0906/leetTrack/tree/master/0925-long-pressed-name) |
+| [0940-distinct-subsequences-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saiiii0906/leetTrack/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saiiii0906/leetTrack/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saiiii0906/leetTrack/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/Saiiii0906/leetTrack/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Saiiii0906/leetTrack/tree/master/1025-divisor-game) |
 ## Stack
 |  |
