@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Saiiii0906/leetTrack/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Saiiii0906/leetTrack/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Saiiii0906/leetTrack/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Saiiii0906/leetTrack/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Saiiii0906/leetTrack/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Saiiii0906/leetTrack/tree/master/0118-pascals-triangle) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Saiiii0906/leetTrack/tree/master/0078-subsets) |
 | [0645-set-mismatch](https://github.com/Saiiii0906/leetTrack/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saiiii0906/leetTrack/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Math
@@ -472,4 +474,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Saiiii0906/leetTrack/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
