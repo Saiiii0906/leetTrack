@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Saiiii0906/leetTrack/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Saiiii0906/leetTrack/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Saiiii0906/leetTrack/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Saiiii0906/leetTrack/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Saiiii0906/leetTrack/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Saiiii0906/leetTrack/tree/master/0125-valid-palindrome) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saiiii0906/leetTrack/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Saiiii0906/leetTrack/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Saiiii0906/leetTrack/tree/master/0118-pascals-triangle) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
@@ -465,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/0912-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
