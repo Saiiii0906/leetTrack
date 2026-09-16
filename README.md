@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Saiiii0906/leetTrack/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Saiiii0906/leetTrack/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Saiiii0906/leetTrack/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Saiiii0906/leetTrack/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Saiiii0906/leetTrack/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Saiiii0906/leetTrack/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Saiiii0906/leetTrack/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Saiiii0906/leetTrack/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Saiiii0906/leetTrack/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Saiiii0906/leetTrack/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Saiiii0906/leetTrack/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Saiiii0906/leetTrack/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Saiiii0906/leetTrack/tree/master/0168-excel-sheet-column-title) |
