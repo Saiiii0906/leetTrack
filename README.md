@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Saiiii0906/leetTrack/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saiiii0906/leetTrack/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Saiiii0906/leetTrack/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1901-find-a-peak-element-ii](https://github.com/Saiiii0906/leetTrack/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saiiii0906/leetTrack/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Saiiii0906/leetTrack/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2090-k-radius-subarray-averages](https://github.com/Saiiii0906/leetTrack/tree/master/2090-k-radius-subarray-averages) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Saiiii0906/leetTrack/tree/master/0289-game-of-life) |
 | [0661-image-smoother](https://github.com/Saiiii0906/leetTrack/tree/master/0661-image-smoother) |
+| [1901-find-a-peak-element-ii](https://github.com/Saiiii0906/leetTrack/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saiiii0906/leetTrack/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Saiiii0906/leetTrack/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Saiiii0906/leetTrack/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Saiiii0906/leetTrack/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1901-find-a-peak-element-ii](https://github.com/Saiiii0906/leetTrack/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Saiiii0906/leetTrack/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Memoization
 |  |
