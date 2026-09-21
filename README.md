@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Saiiii0906/leetTrack/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Saiiii0906/leetTrack/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Saiiii0906/leetTrack/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Saiiii0906/leetTrack/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Saiiii0906/leetTrack/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Saiiii0906/leetTrack/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Saiiii0906/leetTrack/tree/master/0179-largest-number) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Saiiii0906/leetTrack/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Saiiii0906/leetTrack/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saiiii0906/leetTrack/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Saiiii0906/leetTrack/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Saiiii0906/leetTrack/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/Saiiii0906/leetTrack/tree/master/0877-stone-game) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Saiiii0906/leetTrack/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Saiiii0906/leetTrack/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Saiiii0906/leetTrack/tree/master/0216-combination-sum-iii) |
 ## Binary Indexed Tree
 |  |
