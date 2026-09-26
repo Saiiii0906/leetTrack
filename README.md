@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Saiiii0906/leetTrack/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Saiiii0906/leetTrack/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saiiii0906/leetTrack/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saiiii0906/leetTrack/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Saiiii0906/leetTrack/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/Saiiii0906/leetTrack/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saiiii0906/leetTrack/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Saiiii0906/leetTrack/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Saiiii0906/leetTrack/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Saiiii0906/leetTrack/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saiiii0906/leetTrack/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Saiiii0906/leetTrack/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Saiiii0906/leetTrack/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Saiiii0906/leetTrack/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saiiii0906/leetTrack/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saiiii0906/leetTrack/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Saiiii0906/leetTrack/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saiiii0906/leetTrack/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Saiiii0906/leetTrack/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Saiiii0906/leetTrack/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saiiii0906/leetTrack/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
