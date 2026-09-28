@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Saiiii0906/leetTrack/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Saiiii0906/leetTrack/tree/master/0289-game-of-life) |
+| [0327-count-of-range-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0327-count-of-range-sum) |
 | [0354-russian-doll-envelopes](https://github.com/Saiiii0906/leetTrack/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Saiiii0906/leetTrack/tree/master/0493-reverse-pairs) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Saiiii0906/leetTrack/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Saiiii0906/leetTrack/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0240-search-a-2d-matrix-ii) |
+| [0327-count-of-range-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0327-count-of-range-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Saiiii0906/leetTrack/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/Saiiii0906/leetTrack/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/0912-sort-an-array) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Saiiii0906/leetTrack/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Saiiii0906/leetTrack/tree/master/0278-first-bad-version) |
+| [0327-count-of-range-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0327-count-of-range-sum) |
 | [0354-russian-doll-envelopes](https://github.com/Saiiii0906/leetTrack/tree/master/0354-russian-doll-envelopes) |
 | [0367-valid-perfect-square](https://github.com/Saiiii0906/leetTrack/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Saiiii0906/leetTrack/tree/master/0374-guess-number-higher-or-lower) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Saiiii0906/leetTrack/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/0912-sort-an-array) |
 ## Radix Sort
@@ -558,18 +562,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Saiiii0906/leetTrack/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Saiiii0906/leetTrack/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Saiiii0906/leetTrack/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Saiiii0906/leetTrack/tree/master/0493-reverse-pairs) |
 ## Depth-First Search
 |  |
