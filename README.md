@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Saiiii0906/leetTrack/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saiiii0906/leetTrack/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/Saiiii0906/leetTrack/tree/master/1052-grumpy-bookstore-owner) |
+| [1095-find-in-mountain-array](https://github.com/Saiiii0906/leetTrack/tree/master/1095-find-in-mountain-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saiiii0906/leetTrack/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Saiiii0906/leetTrack/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Saiiii0906/leetTrack/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Saiiii0906/leetTrack/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Saiiii0906/leetTrack/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saiiii0906/leetTrack/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/Saiiii0906/leetTrack/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Saiiii0906/leetTrack/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Saiiii0906/leetTrack/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Saiiii0906/leetTrack/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Saiiii0906/leetTrack/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Saiiii0906/leetTrack/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/Saiiii0906/leetTrack/tree/master/1095-find-in-mountain-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -587,4 +590,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Saiiii0906/leetTrack/tree/master/1143-longest-common-subsequence) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Saiiii0906/leetTrack/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
