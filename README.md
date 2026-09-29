@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Saiiii0906/leetTrack/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2090-k-radius-subarray-averages](https://github.com/Saiiii0906/leetTrack/tree/master/2090-k-radius-subarray-averages) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Saiiii0906/leetTrack/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saiiii0906/leetTrack/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saiiii0906/leetTrack/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2951-find-the-peaks](https://github.com/Saiiii0906/leetTrack/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saiiii0906/leetTrack/tree/master/2965-find-missing-and-repeated-values) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Saiiii0906/leetTrack/tree/master/0289-game-of-life) |
 | [0661-image-smoother](https://github.com/Saiiii0906/leetTrack/tree/master/0661-image-smoother) |
 | [1901-find-a-peak-element-ii](https://github.com/Saiiii0906/leetTrack/tree/master/1901-find-a-peak-element-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saiiii0906/leetTrack/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saiiii0906/leetTrack/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Saiiii0906/leetTrack/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/Saiiii0906/leetTrack/tree/master/1143-longest-common-subsequence) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saiiii0906/leetTrack/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Stack
 |  |
 | ------- |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saiiii0906/leetTrack/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String Matching
 |  |
 | ------- |
