@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Saiiii0906/leetTrack/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Saiiii0906/leetTrack/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Saiiii0906/leetTrack/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Saiiii0906/leetTrack/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Saiiii0906/leetTrack/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Saiiii0906/leetTrack/tree/master/0078-subsets) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Saiiii0906/leetTrack/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Saiiii0906/leetTrack/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Saiiii0906/leetTrack/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Saiiii0906/leetTrack/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0240-search-a-2d-matrix-ii) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Saiiii0906/leetTrack/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0045-jump-game-ii) |
+| [0064-minimum-path-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Saiiii0906/leetTrack/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Saiiii0906/leetTrack/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Saiiii0906/leetTrack/tree/master/0118-pascals-triangle) |
