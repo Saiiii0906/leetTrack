@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saiiii0906/leetTrack/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Saiiii0906/leetTrack/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Saiiii0906/leetTrack/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Saiiii0906/leetTrack/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0240-search-a-2d-matrix-ii) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Saiiii0906/leetTrack/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Saiiii0906/leetTrack/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Saiiii0906/leetTrack/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/0912-sort-an-array) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Saiiii0906/leetTrack/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Saiiii0906/leetTrack/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Saiiii0906/leetTrack/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Saiiii0906/leetTrack/tree/master/0237-delete-node-in-a-linked-list) |
 ## Geometry
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Saiiii0906/leetTrack/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Saiiii0906/leetTrack/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Saiiii0906/leetTrack/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0327-count-of-range-sum) |
@@ -666,4 +670,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saiiii0906/leetTrack/tree/master/0042-trapping-rain-water) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Saiiii0906/leetTrack/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
