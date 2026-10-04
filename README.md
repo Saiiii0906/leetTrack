@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Saiiii0906/leetTrack/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saiiii0906/leetTrack/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saiiii0906/leetTrack/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Saiiii0906/leetTrack/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Saiiii0906/leetTrack/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/Saiiii0906/leetTrack/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saiiii0906/leetTrack/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Saiiii0906/leetTrack/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0680-valid-palindrome-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Saiiii0906/leetTrack/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/Saiiii0906/leetTrack/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Saiiii0906/leetTrack/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Hash Table
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saiiii0906/leetTrack/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saiiii0906/leetTrack/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Saiiii0906/leetTrack/tree/master/1652-defuse-the-bomb) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Saiiii0906/leetTrack/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Saiiii0906/leetTrack/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/Saiiii0906/leetTrack/tree/master/2090-k-radius-subarray-averages) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Saiiii0906/leetTrack/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Saiiii0906/leetTrack/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Saiiii0906/leetTrack/tree/master/1552-magnetic-force-between-two-balls) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Saiiii0906/leetTrack/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Saiiii0906/leetTrack/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/2386-find-the-k-sum-of-an-array) |
 ## Divide and Conquer
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Saiiii0906/leetTrack/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/Saiiii0906/leetTrack/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Saiiii0906/leetTrack/tree/master/1552-magnetic-force-between-two-balls) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Saiiii0906/leetTrack/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Saiiii0906/leetTrack/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/Saiiii0906/leetTrack/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Saiiii0906/leetTrack/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -511,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Saiiii0906/leetTrack/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saiiii0906/leetTrack/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saiiii0906/leetTrack/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Saiiii0906/leetTrack/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Saiiii0906/leetTrack/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Interactive
 |  |
