@@ -184,6 +184,7 @@ A collection of LeetCode questions!
 | [0680-valid-palindrome-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Saiiii0906/leetTrack/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Saiiii0906/leetTrack/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/0856-score-of-parentheses) |
 | [0890-find-and-replace-pattern](https://github.com/Saiiii0906/leetTrack/tree/master/0890-find-and-replace-pattern) |
 | [0925-long-pressed-name](https://github.com/Saiiii0906/leetTrack/tree/master/0925-long-pressed-name) |
 | [0940-distinct-subsequences-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0940-distinct-subsequences-ii) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions!
 | [0042-trapping-rain-water](https://github.com/Saiiii0906/leetTrack/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Saiiii0906/leetTrack/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Saiiii0906/leetTrack/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Saiiii0906/leetTrack/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions!
 | [0022-generate-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Saiiii0906/leetTrack/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Saiiii0906/leetTrack/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
