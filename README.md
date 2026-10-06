@@ -226,6 +226,7 @@ A collection of LeetCode questions!
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saiiii0906/leetTrack/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/Saiiii0906/leetTrack/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Saiiii0906/leetTrack/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2578-split-with-minimum-sum](https://github.com/Saiiii0906/leetTrack/tree/master/2578-split-with-minimum-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions!
 | [2427-number-of-common-factors](https://github.com/Saiiii0906/leetTrack/tree/master/2427-number-of-common-factors) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Saiiii0906/leetTrack/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Saiiii0906/leetTrack/tree/master/2523-closest-prime-numbers-in-range) |
+| [2578-split-with-minimum-sum](https://github.com/Saiiii0906/leetTrack/tree/master/2578-split-with-minimum-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saiiii0906/leetTrack/tree/master/2965-find-missing-and-repeated-values) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Saiiii0906/leetTrack/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Saiiii0906/leetTrack/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions!
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saiiii0906/leetTrack/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Saiiii0906/leetTrack/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/2386-find-the-k-sum-of-an-array) |
+| [2578-split-with-minimum-sum](https://github.com/Saiiii0906/leetTrack/tree/master/2578-split-with-minimum-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
