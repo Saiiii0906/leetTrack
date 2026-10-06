@@ -96,6 +96,7 @@ A collection of LeetCode questions!
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Saiiii0906/leetTrack/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saiiii0906/leetTrack/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/2386-find-the-k-sum-of-an-array) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Saiiii0906/leetTrack/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saiiii0906/leetTrack/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2951-find-the-peaks](https://github.com/Saiiii0906/leetTrack/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saiiii0906/leetTrack/tree/master/2965-find-missing-and-repeated-values) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions!
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Saiiii0906/leetTrack/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Saiiii0906/leetTrack/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Saiiii0906/leetTrack/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Saiiii0906/leetTrack/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saiiii0906/leetTrack/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saiiii0906/leetTrack/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Saiiii0906/leetTrack/tree/master/3471-find-the-largest-almost-missing-integer) |
