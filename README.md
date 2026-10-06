@@ -51,6 +51,7 @@ A collection of LeetCode questions!
 | [0327-count-of-range-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0327-count-of-range-sum) |
 | [0354-russian-doll-envelopes](https://github.com/Saiiii0906/leetTrack/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/Saiiii0906/leetTrack/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saiiii0906/leetTrack/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Saiiii0906/leetTrack/tree/master/0643-maximum-average-subarray-i) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions!
 | [0354-russian-doll-envelopes](https://github.com/Saiiii0906/leetTrack/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/Saiiii0906/leetTrack/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Saiiii0906/leetTrack/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Saiiii0906/leetTrack/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Saiiii0906/leetTrack/tree/master/0877-stone-game) |
@@ -693,4 +695,12 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Saiiii0906/leetTrack/tree/master/0023-merge-k-sorted-lists) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
