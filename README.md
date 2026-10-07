@@ -143,6 +143,7 @@ A collection of LeetCode questions!
 | [0567-permutation-in-string](https://github.com/Saiiii0906/leetTrack/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Saiiii0906/leetTrack/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Saiiii0906/leetTrack/tree/master/0876-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/Saiiii0906/leetTrack/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saiiii0906/leetTrack/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Saiiii0906/leetTrack/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions!
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Saiiii0906/leetTrack/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/Saiiii0906/leetTrack/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Saiiii0906/leetTrack/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Saiiii0906/leetTrack/tree/master/0876-middle-of-the-linked-list) |
 ## Geometry
 |  |
 | ------- |
