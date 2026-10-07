@@ -173,6 +173,7 @@ A collection of LeetCode questions!
 | [0205-isomorphic-strings](https://github.com/Saiiii0906/leetTrack/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Saiiii0906/leetTrack/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Saiiii0906/leetTrack/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Saiiii0906/leetTrack/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Saiiii0906/leetTrack/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Saiiii0906/leetTrack/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions!
 | [0131-palindrome-partitioning](https://github.com/Saiiii0906/leetTrack/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Saiiii0906/leetTrack/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Saiiii0906/leetTrack/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -712,4 +714,8 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0416-partition-equal-subset-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
