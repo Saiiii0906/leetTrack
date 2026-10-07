@@ -33,6 +33,7 @@ A collection of LeetCode questions!
 | [0118-pascals-triangle](https://github.com/Saiiii0906/leetTrack/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saiiii0906/leetTrack/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Saiiii0906/leetTrack/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Saiiii0906/leetTrack/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Saiiii0906/leetTrack/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Saiiii0906/leetTrack/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saiiii0906/leetTrack/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Saiiii0906/leetTrack/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0045-jump-game-ii) |
+| [0135-candy](https://github.com/Saiiii0906/leetTrack/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Saiiii0906/leetTrack/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Saiiii0906/leetTrack/tree/master/0678-valid-parenthesis-string) |
