@@ -96,6 +96,7 @@ A collection of LeetCode questions!
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Saiiii0906/leetTrack/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Saiiii0906/leetTrack/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saiiii0906/leetTrack/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Saiiii0906/leetTrack/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Saiiii0906/leetTrack/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saiiii0906/leetTrack/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions!
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saiiii0906/leetTrack/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/Saiiii0906/leetTrack/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Saiiii0906/leetTrack/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Saiiii0906/leetTrack/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2578-split-with-minimum-sum](https://github.com/Saiiii0906/leetTrack/tree/master/2578-split-with-minimum-sum) |
 ## Hash Table
 |  |
@@ -388,6 +390,7 @@ A collection of LeetCode questions!
 | [1552-magnetic-force-between-two-balls](https://github.com/Saiiii0906/leetTrack/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saiiii0906/leetTrack/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Saiiii0906/leetTrack/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Saiiii0906/leetTrack/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2578-split-with-minimum-sum](https://github.com/Saiiii0906/leetTrack/tree/master/2578-split-with-minimum-sum) |
 ## Divide and Conquer
@@ -514,6 +517,7 @@ A collection of LeetCode questions!
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Saiiii0906/leetTrack/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/Saiiii0906/leetTrack/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Saiiii0906/leetTrack/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Saiiii0906/leetTrack/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Memoization
 |  |
 | ------- |
@@ -529,6 +533,7 @@ A collection of LeetCode questions!
 | [0912-sort-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Saiiii0906/leetTrack/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Saiiii0906/leetTrack/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/2386-find-the-k-sum-of-an-array) |
 ## Prefix Sum
 |  |
