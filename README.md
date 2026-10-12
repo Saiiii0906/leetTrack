@@ -101,6 +101,7 @@ A collection of LeetCode questions!
 | [2395-find-subarrays-with-equal-sum](https://github.com/Saiiii0906/leetTrack/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saiiii0906/leetTrack/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Saiiii0906/leetTrack/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Saiiii0906/leetTrack/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2951-find-the-peaks](https://github.com/Saiiii0906/leetTrack/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saiiii0906/leetTrack/tree/master/2965-find-missing-and-repeated-values) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Saiiii0906/leetTrack/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions!
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Saiiii0906/leetTrack/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Saiiii0906/leetTrack/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2578-split-with-minimum-sum](https://github.com/Saiiii0906/leetTrack/tree/master/2578-split-with-minimum-sum) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Saiiii0906/leetTrack/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions!
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Saiiii0906/leetTrack/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Saiiii0906/leetTrack/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saiiii0906/leetTrack/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Saiiii0906/leetTrack/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saiiii0906/leetTrack/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Saiiii0906/leetTrack/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
@@ -327,6 +330,7 @@ A collection of LeetCode questions!
 | [0645-set-mismatch](https://github.com/Saiiii0906/leetTrack/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saiiii0906/leetTrack/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Saiiii0906/leetTrack/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Saiiii0906/leetTrack/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Math
 |  |
 | ------- |
