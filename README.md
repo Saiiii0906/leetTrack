@@ -693,6 +693,7 @@ A collection of LeetCode questions!
 | ------- |
 | [0079-word-search](https://github.com/Saiiii0906/leetTrack/tree/master/0079-word-search) |
 | [0684-redundant-connection](https://github.com/Saiiii0906/leetTrack/tree/master/0684-redundant-connection) |
+| [1192-critical-connections-in-a-network](https://github.com/Saiiii0906/leetTrack/tree/master/1192-critical-connections-in-a-network) |
 ## Trie
 |  |
 | ------- |
@@ -751,4 +752,13 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Saiiii0906/leetTrack/tree/master/0684-redundant-connection) |
+| [1192-critical-connections-in-a-network](https://github.com/Saiiii0906/leetTrack/tree/master/1192-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Saiiii0906/leetTrack/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Saiiii0906/leetTrack/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
