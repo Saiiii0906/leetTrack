@@ -107,6 +107,7 @@ A collection of LeetCode questions!
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Saiiii0906/leetTrack/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Saiiii0906/leetTrack/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Saiiii0906/leetTrack/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Saiiii0906/leetTrack/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions!
 | [2333-minimum-sum-of-squared-difference](https://github.com/Saiiii0906/leetTrack/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2578-split-with-minimum-sum](https://github.com/Saiiii0906/leetTrack/tree/master/2578-split-with-minimum-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Saiiii0906/leetTrack/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Saiiii0906/leetTrack/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -398,6 +400,7 @@ A collection of LeetCode questions!
 | [2333-minimum-sum-of-squared-difference](https://github.com/Saiiii0906/leetTrack/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2578-split-with-minimum-sum](https://github.com/Saiiii0906/leetTrack/tree/master/2578-split-with-minimum-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Saiiii0906/leetTrack/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
