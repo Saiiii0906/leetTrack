@@ -70,6 +70,7 @@ A collection of LeetCode questions!
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saiiii0906/leetTrack/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saiiii0906/leetTrack/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Saiiii0906/leetTrack/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/Saiiii0906/leetTrack/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Saiiii0906/leetTrack/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saiiii0906/leetTrack/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/Saiiii0906/leetTrack/tree/master/1052-grumpy-bookstore-owner) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions!
 | [0240-search-a-2d-matrix-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Saiiii0906/leetTrack/tree/master/0289-game-of-life) |
 | [0661-image-smoother](https://github.com/Saiiii0906/leetTrack/tree/master/0661-image-smoother) |
+| [0994-rotting-oranges](https://github.com/Saiiii0906/leetTrack/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/Saiiii0906/leetTrack/tree/master/1901-find-a-peak-element-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saiiii0906/leetTrack/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saiiii0906/leetTrack/tree/master/2965-find-missing-and-repeated-values) |
@@ -749,6 +751,7 @@ A collection of LeetCode questions!
 | [0200-number-of-islands](https://github.com/Saiiii0906/leetTrack/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/0301-remove-invalid-parentheses) |
 | [0684-redundant-connection](https://github.com/Saiiii0906/leetTrack/tree/master/0684-redundant-connection) |
+| [0994-rotting-oranges](https://github.com/Saiiii0906/leetTrack/tree/master/0994-rotting-oranges) |
 ## Combinatorics
 |  |
 | ------- |
