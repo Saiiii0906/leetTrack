@@ -486,6 +486,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Saiiii0906/leetTrack/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/Saiiii0906/leetTrack/tree/master/0684-redundant-connection) |
 ## Binary Search
 |  |
 | ------- |
@@ -691,6 +692,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Saiiii0906/leetTrack/tree/master/0079-word-search) |
+| [0684-redundant-connection](https://github.com/Saiiii0906/leetTrack/tree/master/0684-redundant-connection) |
 ## Trie
 |  |
 | ------- |
@@ -740,8 +742,13 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/0301-remove-invalid-parentheses) |
+| [0684-redundant-connection](https://github.com/Saiiii0906/leetTrack/tree/master/0684-redundant-connection) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Saiiii0906/leetTrack/tree/master/0062-unique-paths) |
+## Graph Theory
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Saiiii0906/leetTrack/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
