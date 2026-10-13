@@ -85,6 +85,7 @@ A collection of LeetCode questions!
 | [1528-shuffle-string](https://github.com/Saiiii0906/leetTrack/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Saiiii0906/leetTrack/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Saiiii0906/leetTrack/tree/master/1552-magnetic-force-between-two-balls) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Saiiii0906/leetTrack/tree/master/1649-create-sorted-array-through-instructions) |
 | [1652-defuse-the-bomb](https://github.com/Saiiii0906/leetTrack/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Saiiii0906/leetTrack/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Saiiii0906/leetTrack/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions!
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Saiiii0906/leetTrack/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/Saiiii0906/leetTrack/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/0912-sort-an-array) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Saiiii0906/leetTrack/tree/master/1649-create-sorted-array-through-instructions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -531,6 +533,7 @@ A collection of LeetCode questions!
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Saiiii0906/leetTrack/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/Saiiii0906/leetTrack/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Saiiii0906/leetTrack/tree/master/1552-magnetic-force-between-two-balls) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Saiiii0906/leetTrack/tree/master/1649-create-sorted-array-through-instructions) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Saiiii0906/leetTrack/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Saiiii0906/leetTrack/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/Saiiii0906/leetTrack/tree/master/1901-find-a-peak-element-ii) |
@@ -648,6 +651,7 @@ A collection of LeetCode questions!
 | [0327-count-of-range-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Saiiii0906/leetTrack/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Saiiii0906/leetTrack/tree/master/0912-sort-an-array) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Saiiii0906/leetTrack/tree/master/1649-create-sorted-array-through-instructions) |
 ## Radix Sort
 |  |
 | ------- |
@@ -678,18 +682,21 @@ A collection of LeetCode questions!
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Saiiii0906/leetTrack/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Saiiii0906/leetTrack/tree/master/0493-reverse-pairs) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Saiiii0906/leetTrack/tree/master/1649-create-sorted-array-through-instructions) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Saiiii0906/leetTrack/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Saiiii0906/leetTrack/tree/master/0493-reverse-pairs) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Saiiii0906/leetTrack/tree/master/1649-create-sorted-array-through-instructions) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Saiiii0906/leetTrack/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Saiiii0906/leetTrack/tree/master/0493-reverse-pairs) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Saiiii0906/leetTrack/tree/master/1649-create-sorted-array-through-instructions) |
 ## Treap
 |  |
 | ------- |
