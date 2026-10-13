@@ -186,6 +186,7 @@ A collection of LeetCode questions!
 | [0383-ransom-note](https://github.com/Saiiii0906/leetTrack/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Saiiii0906/leetTrack/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Saiiii0906/leetTrack/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/Saiiii0906/leetTrack/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Saiiii0906/leetTrack/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saiiii0906/leetTrack/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Saiiii0906/leetTrack/tree/master/0434-number-of-segments-in-a-string) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions!
 | [0045-jump-game-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/Saiiii0906/leetTrack/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Saiiii0906/leetTrack/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Saiiii0906/leetTrack/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Saiiii0906/leetTrack/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Saiiii0906/leetTrack/tree/master/0680-valid-palindrome-ii) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions!
 | [0020-valid-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Saiiii0906/leetTrack/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Saiiii0906/leetTrack/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Saiiii0906/leetTrack/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Saiiii0906/leetTrack/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Saiiii0906/leetTrack/tree/master/0856-score-of-parentheses) |
@@ -733,6 +736,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saiiii0906/leetTrack/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Saiiii0906/leetTrack/tree/master/0402-remove-k-digits) |
 ## Tournament Sort
 |  |
 | ------- |
