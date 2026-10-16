@@ -105,6 +105,7 @@ A collection of LeetCode questions!
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saiiii0906/leetTrack/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Saiiii0906/leetTrack/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Saiiii0906/leetTrack/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Saiiii0906/leetTrack/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2951-find-the-peaks](https://github.com/Saiiii0906/leetTrack/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saiiii0906/leetTrack/tree/master/2965-find-missing-and-repeated-values) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Saiiii0906/leetTrack/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions!
 | [2395-find-subarrays-with-equal-sum](https://github.com/Saiiii0906/leetTrack/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saiiii0906/leetTrack/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Saiiii0906/leetTrack/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Saiiii0906/leetTrack/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Saiiii0906/leetTrack/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Saiiii0906/leetTrack/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
@@ -683,6 +685,7 @@ A collection of LeetCode questions!
 | [0327-count-of-range-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Saiiii0906/leetTrack/tree/master/0493-reverse-pairs) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Saiiii0906/leetTrack/tree/master/1649-create-sorted-array-through-instructions) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Saiiii0906/leetTrack/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -690,6 +693,7 @@ A collection of LeetCode questions!
 | [0327-count-of-range-sum](https://github.com/Saiiii0906/leetTrack/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Saiiii0906/leetTrack/tree/master/0493-reverse-pairs) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Saiiii0906/leetTrack/tree/master/1649-create-sorted-array-through-instructions) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Saiiii0906/leetTrack/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Ordered Set
 |  |
 | ------- |
